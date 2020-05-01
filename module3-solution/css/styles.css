@@ -1,0 +1,64 @@
+body{
+    font-size: 16px;
+    color: black;
+}
+.text-center{
+    font-size: x-large;
+    font-weight: bold;
+}
+#header-nav{
+    border-color: black;
+    border-radius: 0;
+    
+}
+#nav2{
+    border: black;
+}
+#logo-img{
+    color: black;
+    font-size: 30px;
+    margin: 10px 15px 10px 0;
+}
+
+div.col-md-4{
+    background-color:grey;
+    font-family:  Helvetica;
+    color: black;
+    position: relative;
+   width: 70%;
+    left: 7%;
+        overflow: hidden;
+margin: 70px;
+}
+.container-fluid{
+    border: 50px;
+    text-align: center;
+    font-weight: bold;
+color: black;
+font-weight: bold;
+}
+
+#nav-list a{
+    color: black;
+    text-align: center;
+     background-color:black; 
+    
+}
+.col-md-4{
+    width: min-content;
+}
+div.container-fluid{
+    background-color: grey;
+    border: 100px;
+}
+
+ #nav1{
+    color: black;
+    font-weight: bold;
+}
+
+li a{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+}
